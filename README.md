@@ -5,6 +5,8 @@ This project is finding any enclosed simple loop's area by using planimeter tech
 1. Kawin Chinpong
 2. Kittapat Ratanaphupha
 3. Komchan Charoensuppanya
+4. Kittipan Chuenbunperm
+5. Sarayut Meeyim
 
 ## Video explanation
 [![planimeter](https://github.com/KittapatR/planimeter-MTH201/blob/main/Cover.png)](https://www.youtube.com/watch?v=IjWN-UxDz1Q)
