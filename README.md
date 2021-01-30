@@ -10,6 +10,7 @@ This project is finding any enclosed simple loop's area by using planimeter tech
 
 ## Video explanation
 [![planimeter](https://github.com/KittapatR/planimeter-MTH201/blob/main/Cover.png)](https://www.youtube.com/watch?v=IjWN-UxDz1Q)
+Also can click in this link: https://www.youtube.com/watch?v=IjWN-UxDz1Q
 
 ## Poster
 ![poster](https://github.com/KittapatR/planimeter-MTH201/blob/main/Poster.jpg)
